@@ -1,0 +1,2 @@
+# Comments on: Ensemble Learning
+[Witten, Ian H., Eibe Frank, Mark A. Hall, Christopher J. Pal. 2017. “Ensemble Learning” Chapter 12 from Data Mining: Practical Machine Learning Tools and Techniques, 4th Edition: 351-371.](('https://canvas.uchicago.edu/courses/13021/files/1170195/download?wrap=1',))
